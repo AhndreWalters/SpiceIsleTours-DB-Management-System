@@ -35,7 +35,7 @@ INSERT IGNORE INTO Outing (TourID, GuideID, ScheduledDateTime) VALUES
 (2, 2, '2024-12-21 10:00:00'),
 (3, 3, '2024-12-22 08:00:00');
 
-SELECT o.ScheduledDateTime as Date, 
+SELECT o.ScheduledDateTime as Date,
        t.TourName as Tour,
        CONCAT(g.FirstName, ' ', g.LastName) as Guide
 FROM Outing o
@@ -45,7 +45,7 @@ WHERE o.ScheduledDateTime > NOW()
 ORDER BY o.ScheduledDateTime;
 
 SELECT 'CLIENT REVIEWS AND RATINGS' as Report;
-SELECT c.FirstName, c.LastName, 
+SELECT c.FirstName, c.LastName,
        t.TourName as Tour,
        b.Rating as Stars,
        b.ReviewText as Review
