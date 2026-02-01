@@ -32,6 +32,4 @@
 
 <br>
 
-<footer>
-  <p align="justify"><strong>© 2024 Ahndre Walters</strong> · Spice Isle Tours Database Management System · TAMCC Database Systems Course · College Course Final Project</p>
-</footer>
+<strong>[© 2025 Ahndre Walters](https://github.com/AhndreWalters/SpiceIsleTours-DB-Management-System/blob/main/LICENSE)</strong> · Spice Isle Tours Database Management System · TAMCC Database Systems Course · College Course Final Project</p>
