@@ -1,7 +1,8 @@
 # Spice Isle Tours Database Management System
 
-## Overview
 <p align="justify">This repository contains my final project for the Database Systems course at T.A. Marryshow Community College. The project implements a comprehensive MySQL database management system for Spice Isle Tours, a growing Grenadian tourism company. The system handles all aspects of tour operations including tour scheduling, guide certifications, client bookings, performance analytics, and business intelligence reporting. The database follows proper normalization principles (1NF, 2NF, 3NF) and demonstrates enterprise-level database design with complex SQL queries and management reports.</p>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/04ce8ab8-d2c5-41ba-bd58-f9d4b5d2aed0" />
 
 ## Project Objectives
 - Design a fully normalized relational database schema meeting all business requirements
@@ -27,9 +28,6 @@
 - **Constraints:** Foreign key constraints, primary keys, and data integrity rules
 - **Queries:** Advanced SQL with JOIN operations, aggregation, and filtering
 
-## License
-<p align="justify">This project is for <b>academic and educational purposes only</b>. Developed as the final project for Database Systems CIT247 at T.A. Marryshow Community College. All database design and SQL implementations are original work created for educational demonstration.</p>
-
 <br>
 
-<strong>[© 2025 Ahndre Walters](https://github.com/AhndreWalters/SpiceIsleTours-DB-Management-System/blob/main/LICENSE)</strong> · Spice Isle Tours Database Management System · TAMCC Database Systems Course · College Course Final Project</p>
+<strong>[© 2025 Ahndre Walters](https://github.com/AhndreWalters/SpiceIsleTours-DB-Management-System/blob/main/LICENSE) · Spice Isle Tours Database Management System · TAMCC Database Systems Course · College Course Final Project</strong>
